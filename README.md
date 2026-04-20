@@ -73,7 +73,7 @@ El curso adopta un enfoque **teórico-práctico**, orientado al diseño de soluc
 | Semana | Fechas          | Tema a tratar                                                           | Actividad                       | Evaluación          |
 | ------ | --------------- | ----------------------------------------------------------------------- | ------------------------------- | ------------------- |
 | **11** | 27 abr al 1 may | Analítica Predictiva y Prescriptiva en Operaciones.                     | Quiz 8                          | —                   |
-| **12** | 4 al 8 de may   | Machine Learning aplicado al Mantenimiento Predictivo.                  | Quiz 9<br>Entrega **Taller 5**  | **15% Taller 5**    |
+| **12** | 4 al 8 de may   | Machine Learning aplicado al Mantenimiento Predictivo.                  | Quiz 9                          | —               5**    |
 | **13** | 11 al 15 de may | Gemelos Digitales (Digital Twins) y Simulación Real.                    | Quiz 10                         | —                   |
 | **14** | 18 al 22 de may | Ciberseguridad, Ética y Gobernanza de Datos.                            | Quiz 11<br>Entrega **Taller 3** | **10% Taller 3**    |
 | **15** | 25 al 29 de may | Presentación de Proyectos Integradores (SIG 4.0).<br>Revisión de notas. | —                               | —                   |
