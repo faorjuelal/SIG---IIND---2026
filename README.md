@@ -34,7 +34,6 @@ El curso adopta un enfoque **teórico-práctico**, orientado al diseño de soluc
 ### 🔹 Módulo 3 – Analítica Avanzada
 
 * Quices: 10%
-* Taller 5: 15%
 * Taller 3: 10%
 * Parcial III: 14%
 
